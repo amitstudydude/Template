@@ -1,0 +1,11 @@
+1) generate outlook/protonmail
+2) create account (no vpn)
+3) create public repo
+4) go to link in readme (token)
+5) generate token classic, tick 1st 2 options
+6) add the token to repo settings > secrets > actions as name A
+7) copy rerun.yml and run.yml
+8) run code
+bash /browse 
+zen &
+firefox &
